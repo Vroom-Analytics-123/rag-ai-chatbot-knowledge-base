@@ -121,14 +121,14 @@ in your documents, your channels, and embedding-based retrieval.
 ## The Vroom page
 
 See it running and read how the offer works:
-**[RAG knowledge demo — ask the manual](https://vroomanalytics.com/faq/)**
+**[RAG knowledge demo — ask the manual](https://staging.vroomanalytics.com/faq/)**
 (that page also links the companion article on the repeated-question tax).
 
 ## Monthly peace of mind
 
 Setup is just day one. The **$99/mo care plan** keeps this running —
 monitoring, fixes, and monthly optimization, so you never think about it
-again. Details on the [RAG knowledge demo page](https://vroomanalytics.com/faq/).
+again. Details on the [RAG knowledge demo page](https://staging.vroomanalytics.com/faq/).
 
 ## License
 
