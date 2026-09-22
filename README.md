@@ -1,6 +1,13 @@
 # RAG AI chatbot
 
+![Tests](https://img.shields.io/badge/tests-passing-2ea44f)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.11%2B-3776ab)
+![RAG](https://img.shields.io/badge/RAG-grounded%20answers-0e7c61)
+
 Built by [Vroom Analytics](https://vroomanalytics.com) — the working pattern behind our [AI chatbot / knowledge-base service](https://vroomanalytics.com/faq/).
+
+![RAG chatbot demo](assets/demo.gif)
 
 ## What this is
 
