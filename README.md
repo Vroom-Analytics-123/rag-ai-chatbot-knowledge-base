@@ -1,5 +1,7 @@
 # RAG AI chatbot
 
+Built by [Vroom Analytics](https://vroomanalytics.com) — the working pattern behind our [AI chatbot / knowledge-base service](https://vroomanalytics.com/faq/).
+
 ## What this is
 
 Your team answers the same ten questions every day — hours, cancellations,
